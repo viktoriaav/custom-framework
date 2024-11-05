@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A TodoMVC app",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "mini-framework": "1.2.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+app/node_modules
+
+# Ignore dist directory
+app/dist
+
+# Ignore app/.cache directory
+app/.cache
+
+# Ignore package-lock.json file
+app/package-lock.json
